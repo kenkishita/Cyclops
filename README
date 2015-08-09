@@ -1,0 +1,4 @@
+E3D's Cyclops (dual extruder but single nozzle, heater, thermistor)
+I using the RAMPS 1.4 and Marlin.
+E3D required firmware is Repetier but I'd like to use M80 (PS_ON), Repetier isn't good work this funciton.
+Therefore, I decided using Marlin.
